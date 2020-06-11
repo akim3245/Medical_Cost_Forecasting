@@ -26,7 +26,7 @@ The dataset includes the following features:
 With increase in age there was an increase in charges and charges are higher among smokers compared to non-smokers.
 [![Screen-Shot-2020-06-09-at-10-00-12-AM.png](https://i.postimg.cc/PJ79Bz7m/Screen-Shot-2020-06-09-at-10-00-12-AM.png)](https://postimg.cc/4HzWctsd)
 
-The higher the BMI, the higher the charges which also appears to rise more quickly in smokers.
+The higher the BMI, the higher the charges which also appears to rise more quicker in smokers.
 [![Screen-Shot-2020-06-09-at-10-00-18-AM.png](https://i.postimg.cc/MZ3CMqGv/Screen-Shot-2020-06-09-at-10-00-18-AM.png)](https://postimg.cc/hhxyNFTB)
 
 ## Feature Engineering
