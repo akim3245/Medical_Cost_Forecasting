@@ -71,5 +71,6 @@ Here is a bar chart to visually compare model performance by R2 test scores.
 Although Polynomial Regression performed the best, the scores are very similar and all fall within a short range between 0.7 and 0.85.
 
 ## Notebooks
-* MedicalCost_Dev_eda -- Exploratory data analysis, data visualizations, cleaning, preprocessing
-* MedicalCost_Dev_modelling -- Model performance (Multiple linear regression, polynomical regression, lasso regression, backward elimination), model validation, model comparison
+**MedicalCost_Dev_eda** - Exploratory data analysis, data visualizations, cleaning, preprocessing
+
+**MedicalCost_Dev_modelling** - Model performance (multiple linear regression, polynomical regression, lasso regression, backward elimination), model validation, model comparison
