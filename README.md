@@ -35,6 +35,7 @@ Two new columns were created.
 The first column, 'bmi_cat', organizes BMI into categories: underweight, normal, overweight and obese.
 The second column, 'age_cat', categorizes age into age groups: child, youth, middle aged and senior. Children and seniors were not identified in the dataset. The youngest was 18 years old (youth) and the oldest was 64 years old (middle aged).
 
+## Modelling
 After exploring and preprocessing, the data was split 80/20 into train and test sets. 
 
 The machine learning algorithms used:
